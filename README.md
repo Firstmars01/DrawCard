@@ -10,6 +10,17 @@ Application Windows (**DrawCard-Configurateur.exe**, sans installation) pour cr�
 - des thèmes **clair et sombre** (bouton soleil / lune), sur la page web comme sur l'application mobile.
 
 
+## Téléchargement (dernière version)
+
+| Appareil | Lien direct |
+| --- | --- |
+| **PC Windows** (10 / 11) | **[DrawCard-Configurateur.exe](https://github.com/Firstmars01/DrawCard/releases/latest/download/DrawCard-Configurateur.exe)** |
+| **Android** (8 ou plus, avec NFC) | **[DrawCard.apk](https://firstmars01.github.io/DrawCard/telechargement/DrawCard.apk)** |
+| **iPhone / iPad** | **[Appli web DrawCard](https://firstmars01.github.io/DrawCard/portefeuille/)** : ouvre le lien dans Safari → Partager → Sur l'écran d'accueil |
+
+Ces liens donnent toujours la **dernière version** publiée. Tout est aussi disponible sur la page du projet : **https://firstmars01.github.io/DrawCard/**.
+
+
 > **Ancien nom : Card Pro.** Depuis la version 5.0, l'application s'appelle **DrawCard** (exe `DrawCard-Configurateur.exe`, données dans `%APPDATA%\DrawCard`, appli Android `fr.drawcard.portefeuille`, fichiers `.drawcard`). Pour reprendre tes données : dans l'ancienne version, **Sauvegarder** (PC) / **Sauvegarder mes cartes** (téléphone), puis **Restaurer** / **Importer un fichier** dans DrawCard. Les sauvegardes, fichiers `.cardpro` et GIF créés sous l'ancien nom restent lisibles.
 
 ## Fonctionnalités
